@@ -1,2 +1,2 @@
-# eslint-config-test
-eslint config test
+# eslint-plugin-test
+eslint plugin test
