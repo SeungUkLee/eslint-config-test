@@ -1,5 +1,5 @@
 {
-  "name": "eslint-plugin-test",
+  "name": "@seunguklee/eslint-plugin-test",
   "version": "0.0.1",
   "description": "eslint plugin test",
   "keywords": [
